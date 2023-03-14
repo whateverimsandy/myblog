@@ -8,11 +8,10 @@ publish_date: 2023-03-10
 
 ** assignment1 **
 
-![photo][def]
+![my photo](../image/sg.png)
 
 *italic*code
 .fxikghx.u
 
 
 
-[def]: C:\Users\Acer\myblog/posts/image.md/sg.png
