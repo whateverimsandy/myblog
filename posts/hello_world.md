@@ -2,11 +2,17 @@
 title: Hello world! I'm Sandy
 publish_date: 2023-03-10
 ---
-# HI #
+# Ideations #
+
 ## Welcome ##
-This is my first blog post! 123
+
 ** assignment1 **
+
+![photo][def]
 
 *italic*code
 .fxikghx.u
 
+
+
+[def]: C:\Users\Acer\myblog/posts/image.md/sg.png
