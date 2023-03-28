@@ -4,7 +4,7 @@ import blog, { ga, redirects, h } from "blog";
 
 blog({
   title: "Sandy's Blog",
-  description: "This is my new blog.",
+  description: "Welcome to my new blog.",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,

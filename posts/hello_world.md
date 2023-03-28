@@ -5,9 +5,9 @@ disable_html_sanitization : true
 ---
 # Ideations
 
-## Welcome 
+ 
 
- assignment1
+ 
 
 
 
@@ -16,9 +16,6 @@ disable_html_sanitization : true
 
 <iframe width="700" height="400"src="https://editor.p5js.org/whateverimsandy/full/Q-xE0j_Pa"></iframe> 
 
-*italic*code
-
-.fxikghx.u
 
 
 
