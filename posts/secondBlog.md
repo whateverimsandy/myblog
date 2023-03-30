@@ -13,13 +13,20 @@ Taking inspiraton from the stop-motion movie 'Coraline'
 ![tunnel](./image/coraline.jpg) 
 
 My banner ideation is to place the text (in white colour) into a blank canvas. After interaction (clicking to logo). A squirling line will appear and fully cover the canvas like a spider-web
- # Used functions & techniques inspiration
+ # Used functions
 
  From The Coding Train (drag the canvas to operate)
 
  <iframe width="600" height="400" src="https://editor.p5js.org/codingtrain/full/1y_xfueO"></iframe>
+ -class
+ -array
+ -mousePressed()
 
 # Testing
 The background transformation (click the icon to operate)
 <iframe width="600" height="400" src="https://editor.p5js.org/whateverimsandy/full/VADwDnL1a"></iframe>
 My p5js sketch
+
+# Links
+https://editor.p5js.org/codingtrain/full/1y_xfueO
+https://editor.p5js.org/whateverimsandy/full/VADwDnL1a
