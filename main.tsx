@@ -8,7 +8,7 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: './image/pic.jpg' ,
   avatarClass: "rounded-full",
   author: "Sandy Vu",
 
