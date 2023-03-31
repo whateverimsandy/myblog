@@ -1,6 +1,6 @@
 ---
 title: Spiral tunnel
-publish_date: 2023-28-03
+publish_date: 2023-31-03
 disable_html_sanitization : true
 ---
 # Ideation
@@ -13,6 +13,7 @@ Taking inspiraton from the stop-motion movie 'Coraline'
 ![tunnel](./image/coraline.jpg) 
 
 My banner ideation is to place the text (in white colour) into a blank canvas. After interaction (clicking to logo). A squirling line will appear and fully cover the canvas like a spider-web
+
  # Used functions
 
  From The Coding Train (drag the canvas to operate)

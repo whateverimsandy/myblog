@@ -21,6 +21,7 @@ For the second trial, I just reversed the 2 characters. Having the spider inside
 
 
 # Used functions & techniques
+
 <iframe width="400" height="400"src="https://editor.p5js.org/codingtrain/full/0kQ9v-bhM"></iframe>
 
 Variable
@@ -31,8 +32,12 @@ extraCanvas
 
 random()
 
+These are functions that I learnt/got inspired from The Coding Train and will be testing out later on
+
 # Testing
+
 <iframe width="700" height="400"src="https://editor.p5js.org/whateverimsandy/full/Q-xE0j_Pa"></iframe> 
+
 
 # Links
 https://editor.p5js.org/codingtrain/sketches/0kQ9v-bhM
