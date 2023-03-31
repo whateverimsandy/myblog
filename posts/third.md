@@ -28,8 +28,10 @@ I also made iteration in comment on how the text will be displayed (different de
 
 Instruction:
 
-1/ move the mouse around to experience 1st chane in background
+1/ move the mouse around to experience 1st chane in background. Move back and forth to see transformation
+
 2/ click on the logo to see the 2nd change
+
 3/ Can repeat step 1
 
 # Links
