@@ -4,6 +4,7 @@ publish_date: 2023-31-03
 disable_html_sanitization : true
 ---
 # Ideation
+
 Another idea of having the hidden message reveal after changing the background. However this time the layout is more organized (line by line). I'm planning to make the text appears when the mouse moves to a certain point at a time. Each point will have a part of the overall message.
 
 # Used functions 

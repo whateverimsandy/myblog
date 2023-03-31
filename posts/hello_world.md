@@ -1,9 +1,10 @@
 ---
 title: Bubble pop
-publish_date: 2023-28-03
+publish_date: 2023-31-03
 disable_html_sanitization : true
 ---
 # Ideation & Iterations
+
 The RMIT logo was inspired by the nature in Australia, having a diverse range of insects and spiders in ecosystem. One thing that caught my attention when first visitng Melbourne Museum was the redback spider. Finding the red spot at the back is kind of similar to RMIT logo, I decided why not having it in the banner design 
 My ideal was to have to RMIT logo stays hidden until the background transforms.
 
