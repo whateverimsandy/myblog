@@ -5,9 +5,8 @@ disable_html_sanitization : true
 ---
 # Ideation
 
-My idea was to have the background tranforms from a blank canvas that later on reveal a hidden message 'RMIT creative coding specialisation' underneath.
+My idea was to have the background tranforms from a blank canvas that later on reveal a hidden message 'RMIT creative coding specialisation' underneath. Taking inspiraton from the stop-motion movie 'Coraline', there's a scene the mysterious tunnel appears leading her to a parallel world. I think it'll be interesting to have influence from this artform into my sketch
 
-Taking inspiraton from the stop-motion movie 'Coraline'
 ![Coraline crawling](./image/tunnel.jpg) 
 
 ![tunnel](./image/coraline.jpg) 
