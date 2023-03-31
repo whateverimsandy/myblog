@@ -18,9 +18,14 @@ My banner ideation is to place the text (in white colour) into a blank canvas. A
  From The Coding Train (drag the canvas to operate)
 
  <iframe width="600" height="400" src="https://editor.p5js.org/codingtrain/full/1y_xfueO"></iframe>
+
  -class
+
  -array
- -mousePressed()
+
+ -mousePressed()/mouseDragged()
+
+ These are the functions that I learnt from The Coding Train. The style is also an inspiration for this experiment
 
 # Testing
 The background transformation (click the icon to operate)
